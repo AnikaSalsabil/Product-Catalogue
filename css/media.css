@@ -1,0 +1,110 @@
+/**********   xs   **********/
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .nav-active {
+    border-bottom: none;
+    
+}
+    .contact_btn{
+        margin-bottom: 30px!important;
+    }
+    .green_banner h1 {
+        font-size: 27px;
+    }
+
+    .green_banner button {
+        font-size: 16px;
+        padding: 10px 50px;
+        margin-top: 20px;
+    }
+
+    .card_col{
+        width: 50%;
+    }
+    .green_footer h5{
+        text-align: center;
+    }
+    .brand_col{
+        width: 33%;
+        text-align: center;
+    }
+    .grey_footer{
+        text-align: center;
+    }
+
+    .right_center{
+        text-align: center;
+    }
+    .brand_a {
+        max-width: 20%;
+    }
+
+    .max70 {
+        max-width: 50% !important;
+    }
+
+
+}
+
+
+/**********   sm   **********/
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    .nav-active {
+    border-bottom: none;
+    
+}
+    .contact_btn{
+        margin-bottom: 30px!important;
+    }
+    .green_banner h1 {
+        font-size: 27px;
+    }
+
+    .green_banner button {
+        font-size: 16px;
+        padding: 10px 50px;
+        margin-top: 20px;
+    }
+
+    .card_col{
+        width: 50%;
+    }
+    .green_footer h5{
+        text-align: center;
+    }
+    .brand_col{
+        width: 33%;
+        text-align: center;
+    }
+    .grey_footer{
+        text-align: center;
+    }
+
+    .right_center{
+        text-align: center;
+    }
+    .brand_a {
+        max-width: 20%;
+    }
+
+    .max70 {
+        max-width: 50% !important;
+    }
+}
+
+
+/**********   md   **********/
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+
+/**********   lg   **********/
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+
+/**********   xl   **********/
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {}
